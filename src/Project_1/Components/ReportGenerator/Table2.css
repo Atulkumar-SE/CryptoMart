@@ -1,0 +1,11 @@
+/* DynamicTable.css */
+.selecting {
+    background-color: lightblue;
+  }
+  td.selected {
+    background-color: lightblue;
+  }
+  
+  td.merged {
+    background-color: #f5f5f5;
+  }
